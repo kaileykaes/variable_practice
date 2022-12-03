@@ -9,5 +9,7 @@ waist_size = 27
 barks_heard = 1.75
 lozenges_left = 8.4432
 leads_left = 9.7
-
+favorite_music = false
+paid_deposit = true
+has_dog = true
 
