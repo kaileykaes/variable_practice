@@ -13,3 +13,4 @@ favorite_music = false
 paid_deposit = true
 has_dog = true
 
+
