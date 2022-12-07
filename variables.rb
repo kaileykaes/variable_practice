@@ -13,4 +13,17 @@ favorite_music = false
 paid_deposit = true
 has_dog = true
 
+puts name
 
+name = 'KIK'
+dog_name = 'Harbubba'
+barks_heard = 19298347746456.454637
+lozenges_left = 6.4432
+
+puts name 
+puts has_dog
+puts lozenges_left
+puts dog_name
+puts barks_heard
+puts favorite_music
+puts lozenges_left
